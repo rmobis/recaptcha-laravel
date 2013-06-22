@@ -1,0 +1,23 @@
+{
+	"name": "rmobis/recaptcha",
+	"description": "A reCAPTCHA library with out of the box Laravel integration.",
+	"authors": [
+		{
+			"name": "rmobis",
+			"email": "r.mobis@gmail.com",
+			"role": "Fix all the shit Pedro does"
+		}
+	],
+	"require": {
+		"php": ">=5.4.0",
+		"illuminate/support": "4.0.*",
+		"illuminate/config": "4.0.*",
+		"neutron/recaptcha": "0.1.*"
+	},
+	"autoload": {
+		"psr-0": {
+			"Rmobis\\Recaptcha": "src/"
+		}
+	},
+	"minimum-stability": "dev"
+}
