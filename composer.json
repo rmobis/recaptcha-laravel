@@ -1,11 +1,10 @@
 {
-	"name": "rmobis/recaptcha",
-	"description": "A reCAPTCHA library with out of the box Laravel integration.",
+	"name": "rmobis/recaptcha-laravel",
+	"description": "A reCAPTCHA library with out of the box integration for the Laravel framework.",
 	"authors": [
 		{
 			"name": "rmobis",
-			"email": "r.mobis@gmail.com",
-			"role": "Fix all the shit Pedro does"
+			"email": "r.mobis@gmail.com"
 		}
 	],
 	"require": {

@@ -10,7 +10,7 @@ The best way to install the package is through Composer.
 **composer.json**
 ```json
 "require": {
-	"rmobis/recaptcha": "0.1.*"
+	"rmobis/recaptcha-laravel": "0.1.*"
 }
 ```
 
