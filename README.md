@@ -31,7 +31,7 @@ The best way to install the package is through Composer.
 This is where you'll set up your public and private keys, as well as your [customization options][2]. To export the configuration file, do:
 
 ````
-php artisan config:publish rmobis/recaptcha
+php artisan config:publish rmobis/recaptcha-laravel
 ````
 
 
